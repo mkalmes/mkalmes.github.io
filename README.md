@@ -1,8 +1,3 @@
----
-layout: post
-title: "Learning in Public"
-date: 2025-09-24 20:15:00 +0200
----
 > You only get to look at a problem as a beginner once, and so I think writing this stuff down is interesting. It also helps me clarify what I'm learning to myself.
 > Steve Klabnik in [Steve's Jujutsu Tutorial](https://steveklabnik.github.io/jujutsu-tutorial/)
 
